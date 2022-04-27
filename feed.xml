@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://lime360.neocities.org//feed.xml" rel="self" type="application/rss+xml" />
+    <title>lime360's blog</title>
+    <link>https://lime360.neocities.org/</link>
+    <description>yes i made my blog</description>
+    <language>en-us</language>
+     <item>
+      <title>Moved!</title>
+      <pubDate>Thu, 21 Apr 2022 14:56:00 EST</pubDate>
+      <link>https://lime360.dreamwidth.org/264.html</link>
+      <guid>https://lime360.dreamwidth.org/264.html</guid>
+      <description>moved to dreamwidth</description>
+    </item>
+    <!--
+    <item>
+      <title>New Post</title>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 EST</pubDate>
+      <link>example link</link>
+      <guid>example link</guid>
+      <description>What's happening?</description>
+    </item>
+    -->
+  </channel>
+</rss>
