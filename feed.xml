@@ -6,19 +6,33 @@
     <link>https://lime360.neocities.org/</link>
     <description>yes i made my blog</description>
     <language>en-us</language>
-     <item>
-      <title>Moved!</title>
-      <pubDate>Thu, 21 Apr 2022 14:56:00 EST</pubDate>
-      <link>https://lime360.dreamwidth.org/264.html</link>
-      <guid>https://lime360.dreamwidth.org/264.html</guid>
-      <description>moved to dreamwidth</description>
+    <item>
+      <title>hi</title>
+      <pubDate>Tue, 10 Nov 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2020-11-10-Post-Template.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2020-11-10-Post-Template.html</guid>
+      <description>Just hi.</description>
+    </item>
+    <item>
+      <title>something</title>
+      <pubDate>Sat, 10 Nov 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-02-26-Something.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-02-26-Something.html</guid>
+      <description>Some news.</description>
+    </item>
+    <item>
+      <title>second website</title>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-04-09-My-second-website-is-finally-here!.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-04-09-My-second-website-is-finally-here!.html</guid>
+      <description>finally its here.</description>
     </item>
     <!--
     <item>
       <title>New Post</title>
       <pubDate>Mon, 01 Jan 1979 00:00:00 EST</pubDate>
-      <link>example link</link>
-      <guid>example link</guid>
+      <link>https://lime360.neocities.org/blog/posts/2020-11-10-Post-Template.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2020-11-10-Post-Template.html</guid>
       <description>What's happening?</description>
     </item>
     -->
