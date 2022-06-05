@@ -1,0 +1,22 @@
+{
+  "name": "lime360.neocities.org",
+  "version": "1.0.0",
+  "description": "my neocities site",
+  "main": "node_modules/neocities/index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lime360/lime360.neocities.org.git"
+  },
+  "author": "lime360",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lime360/lime360.neocities.org/issues"
+  },
+  "homepage": "https://lime360.neocities.org/"
+  "dependencies": {
+    "neocities": "0.0.3"
+  }
+}
