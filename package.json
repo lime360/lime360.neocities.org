@@ -16,7 +16,7 @@
     "url": "https://github.com/lime360/lime360.neocities.org/issues"
   },
   "homepage": "https://lime360.neocities.org/"
-  "dependencies": {
+  ,"dependencies": {
     "neocities": "0.0.3"
   }
 }
