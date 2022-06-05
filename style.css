@@ -15,7 +15,6 @@ img {
 /* CODE BELOW IS STOLEN FROM W3SCHOOLS LOL
 https://www.w3schools.com/howto/howto_css_glowing_text.asp*/
 a:hover {
-  font-size: 80px;
   color: #fff;
   text-align: center;
   -webkit-animation: glow 1s ease-in-out infinite alternate;
