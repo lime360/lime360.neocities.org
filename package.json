@@ -5,6 +5,7 @@
   "main": "node_modules/neocities/index.js",
   "scripts": {
     "test": "echo test"
+    ,"build": "echo nothing interesting, just a static site that uses nodejs to automate stuff (which is a bit painful)"
   },
   "repository": {
     "type": "git",
