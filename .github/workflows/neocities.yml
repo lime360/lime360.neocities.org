@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+  workflow-dispatch:
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
@@ -12,7 +13,7 @@ concurrency: # prevent concurrent deploys doing strange things
 
 jobs:
   deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v1
@@ -32,9 +33,4 @@ jobs:
       with:
         api_token: ${{ secrets.GH_TOKEN }}
         cleanup: true
-        protected_files:
-         public/absolutist/*
-         public/html_help/*
-         public/blog/*
-         public/microsoft/*
         dist_dir: public
