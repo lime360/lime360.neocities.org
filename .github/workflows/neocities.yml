@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-  workflow-dispatch:
+  workflow_dispatch:
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
