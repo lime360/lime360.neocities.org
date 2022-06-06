@@ -36,5 +36,5 @@ jobs:
          public/absolutist/*
          public/html_help/*
          public/blog/*
-        s public/microsoft/*
+         public/microsoft/*
         dist_dir: public
