@@ -31,5 +31,10 @@ jobs:
       uses: bcomnes/deploy-to-neocities@v1
       with:
         api_token: ffa2acc6a1521b4ef18b170bafa1ea30
-        cleanup: true
+        cleanup: false
+        protected_files:
+        - public/absolutist/*
+        - public/html_help/*
+        - public/blog/*
+        - public/microsoft/*
         dist_dir: public
