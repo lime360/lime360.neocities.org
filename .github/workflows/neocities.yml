@@ -30,7 +30,7 @@ jobs:
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
-        api_token: ffa2acc6a1521b4ef18b170bafa1ea30
+        api_token: ef6269351bc33b5d0206365bf64e130f
         cleanup: true
         protected_files:
          public/absolutist/*
