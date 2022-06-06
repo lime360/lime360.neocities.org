@@ -20,6 +20,6 @@ jobs:
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
-        api_token: ${{ secrets.NEOTOKEN }}
+        api_token: ${{ secrets.GH_TOKEN }}
         cleanup: true
         dist_dir: public
