@@ -34,7 +34,7 @@ let postsArray = [
 [ "posts/2022-04-09-My-second-website-is-finally-here!.html" ],
 [ "posts/2022-02-26-Something.html" ],
 [ "posts/2020-11-10-Post-Template.html" ], 
-["posts/2022-06-06-Site-is-now-automated!"] ];
+["posts/2022-06-06-Site-is-now-automated!.html"] ];
 
 //-----------------------------
 
