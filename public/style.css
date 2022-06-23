@@ -11,8 +11,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-/* STOLEN FROM W3SCHOOLS LOL
-https://www.w3schools.com/howto/howto_css_glowing_text.asp */
+/* https://www.w3schools.com/howto/howto_css_glowing_text.asp */
 a:hover {
   color: #fff;
   text-align: center;
@@ -44,8 +43,7 @@ a:hover {
     text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
   }
 }
-/* STOLEN FROM HTML CODE GENERATOR XD
-https://www.html-code-generator.com/html/rainbow-text-generator */
+/* https://www.html-code-generator.com/html/rainbow-text-generator */
 .rainbow {
   background: linear-gradient(90deg, #f00, #ff2b00, #f50, #ff8000, #fa0, #ffd500, #ff0, #d4ff00, #af0, #80ff00, #5f0, #2bff00, #0f0, #00ff2b, #0f5, #00ff80, #0fa, #00ffd5, #0ff, #00d4ff, #0af, #007fff, #05f, #002bff, #00f, #2a00ff, #50f, #7f00ff, #a0f, #d400ff, #f0f, #ff00d4, #f0a, #ff0080, #f05, #ff002b, #f00);
   color: #0000;
