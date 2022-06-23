@@ -1,8 +1,8 @@
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
-
-   /* stolen from browserstack */
+/* stolen from browserstack */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 body {
   background-color: #FFFF;
   background-image: url('../images/Tulips.jpg');
@@ -11,7 +11,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   font-size: 18px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Source Sans Pro', sans-serif;
   margin: 0;
 }
 
