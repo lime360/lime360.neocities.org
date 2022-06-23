@@ -2,10 +2,14 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+   /* stolen from browserstack */
 body {
   background-color: #FFFF;
-  background-image: url('../images/redbrick.png');
-	background-position: top;
+  background-image: url('../images/Tulips.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   font-size: 18px;
   font-family: Georgia, "Times New Roman", serif;
   margin: 0;
