@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://lime360.neocities.org//feed.xml" rel="self" type="application/rss+xml" />
-    <title>lime360's blog</title>
+    <atom:link href="https://lime360.neocities.org/nanoblog/feed.xml" rel="self" type="application/rss+xml" />
+    <title>@lime360 - nanoblog</title>
     <link>https://lime360.neocities.org/</link>
-    <description>yes i made my blog</description>
+    <description>latest posts by @lime360 on nanoblog</description>
     <language>en-us</language>
     <item>
-      <title>@lime360, 26.06.2022</title>
+      <title>hi everyone</title>
       <pubDate>Sun, 26 Jun 2022 00:00:00 EST</pubDate>
       <link>https://lime360.neocities.org/nanoblog</link>
       <guid>https://lime360.neocities.org/nanoblog</guid>
-      <description>hi everyone</description>
+      <description></description>
     </item>
     <!--
     <item>
