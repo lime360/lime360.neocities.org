@@ -14,8 +14,8 @@
 
 //==[ 1. BASIC INFO ]==
 
-let blogName = "cool blog";
-let authorName = "lime360";
+let blogName = "lime360's blog";
+let authorName = "lime360 himself";
 let authorLink = "https://lime360.neocities.org/"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
 //-----------------------------
@@ -58,7 +58,7 @@ let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">Home</a></l
 '<li><a href="' + relativePath + '/about.html">About</a></li> </ul>';
 
 //Write the Footer HTML, which has information about the blog.
-let footerHTML = "<hr><p>" + blogName + " is written by <a href='https://lime360.neocities.org/'>" + "lime360" + "</a>, built with <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://neocities.org/'>Neocities!</a></p>";
+let footerHTML = "<hr><p>" + blogName + " is bulit with <a href='https://zonelets.net/'>Zonelets</a> by <a href='" + authorLink + "'>" + authorName + "</a>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
