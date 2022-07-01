@@ -147,3 +147,11 @@ h1, h2, h3, h4, h5 {
   font-size: 0.8em;
   padding: 0 5% 10px 5%;
 }
+
+/* code stolen from mutant.tech */
+.mutstd {
+  display: inline-block;
+  height: 22px;
+  width: 22px;
+  vertical-align: middle;
+}

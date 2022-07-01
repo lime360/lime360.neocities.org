@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 body {
-  background-color: lightblue;
+  background: rgb(0,142,255);
+  background: -moz-linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  background: linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#008eff",endColorstr="#00ff3b",GradientType=1); 
   font-family: 'Source Sans Pro', sans-serif;
 }
 .header {
@@ -28,4 +32,11 @@ a {
 img {
   max-width: 100%;
   height: auto;
+}
+/* code stolen from mutant.tech */
+.mutstd {
+  display: inline-block;
+  height: 22px;
+  width: 22px;
+  vertical-align: middle;
 }
