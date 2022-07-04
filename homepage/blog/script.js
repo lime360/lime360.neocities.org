@@ -31,6 +31,7 @@ let authorLink = "https://lime360.neocities.org/"; // Enter your website, social
   use a date it must still follow that format.*/
 
 let postsArray = [
+["posts/2022-07-04-The-future-of-the-website.html"],
 ["posts/2022-06-26-Nanoblog.html"],
 ["posts/2022-06-06-Site-is-now-automated!.html"],
 [ "posts/2022-04-09-My-second-website-is-finally-here!.html" ],
