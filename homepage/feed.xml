@@ -45,8 +45,8 @@
     <item>
       <title>New Post</title>
       <pubDate>Mon, 01 Jan 1979 00:00:00 EST</pubDate>
-      <link>link</link>
-      <guid>link</guid>
+      <link>http://example.com/</link>
+      <guid>http://example.com/</guid>
       <description></description>
     </item>
     -->
