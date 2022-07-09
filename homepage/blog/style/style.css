@@ -155,3 +155,17 @@ h1, h2, h3, h4, h5 {
   width: 22px;
   vertical-align: middle;
 }
+
+#statuscafe {
+    padding: .5em;
+    background-color: darkorchid;
+    border: 1px solid midnightblue;
+    border-radius: 25px;
+    color: white;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
